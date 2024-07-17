@@ -12,7 +12,13 @@ An Automated Light Intensity Control System is essential for several practical r
 
 ## COMPONENTS USED
 
-
+    - Arduino UNO (1 No)
+    - USB cable for Arduino UNO (1 No)
+    - Resistor (2 Nos) 
+    - LED Lights (1 No)
+    - Breadboard (1 No) 
+    - Jumper Wire (5 Nos) 
+    - Photoresistor (Sensor) (1 No) 
 
 ## WORKING
 
