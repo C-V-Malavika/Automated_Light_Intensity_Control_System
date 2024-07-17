@@ -22,3 +22,18 @@ An Automated Light Intensity Control System is essential for several practical r
 
 ## WORKING
 
+The image below shows a clear picture of the connections involved
+
+[image](assets/Picture1.png)
+
+Here is a picture of original connections
+
+[image](assets/Picture2.png)
+
+These are the videos that demonstrate the working of the developed prototype under various conditions
+
+[video](assets/Video1.MP4)
+
+[video](assets/Video2.MP4)
+
+[video](assets/Video3.MP4)
