@@ -24,11 +24,11 @@ An Automated Light Intensity Control System is essential for several practical r
 
 The image below shows a clear picture of the connections involved
 
-[image](assets/Picture1.png)
+<img src="assets/Picture1.png" width="300" />
 
 Here is a picture of original connections
 
-[image](assets/Picture2.png)
+<img src="assets/Picture2.png" width="300" />
 
 These are the videos that demonstrate the working of the developed prototype under various conditions
 
