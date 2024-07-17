@@ -1,0 +1,15 @@
+ALGORITHM
+
+1. Setup Phase: 
+
+    a. Initialize serial communication at 9600 baud rates. 
+    b. Set the ldrPin as an input. 
+    c. Set the ledPin as an output. 
+
+2. Main Loop: 
+
+    a. Read the value from the light-dependent resistor (LDR) connected to ldrPin. 
+    b. Map the LDR value from the range [50, 300] to the range [255, 0] to determine LED brightness. 
+    c. Constrain the brightness value to be within [0, 255]. 
+    d. Write the constrained brightness value to the ledPin to control LED intensity. 
+    e. Wait for 10 milliseconds before repeating the loop. 
