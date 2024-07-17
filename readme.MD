@@ -32,8 +32,8 @@ Here is a picture of original connections
 
 These are the videos that demonstrate the working of the developed prototype under various conditions
 
-[video](assets/Video1.MP4)
+<video src="assets/Video1.MP4" width="500px"></video>
 
-[video](assets/Video2.MP4)
+<video src="assets/Video2.MP4" width="500px"></video>
 
-[video](assets/Video3.MP4)
+<video src="assets/Video3.MP4" width="500px"></video>
