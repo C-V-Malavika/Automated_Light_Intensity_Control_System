@@ -32,7 +32,10 @@ The image below shows the actual connections
 
 These are the videos that demonstrate the working of the developed prototype under various conditions
 
-[![Watch the video]](https://raw.githubusercontent.com/C-V-Malavika/AUTOMATED_LIGHT_INTENSITY_CONTROL_SYSTEM/main/assets/Video1.MP4)
+<video width="500" height="500" controls>
+  <source src="assets/Video1.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <video src="assets/Video2.MP4" width="500px"></video>
 
