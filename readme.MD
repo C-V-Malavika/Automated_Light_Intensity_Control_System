@@ -26,13 +26,13 @@ The image below shows a clear picture of the connections involved
 
 <img src="assets/Picture1.png" width="500" />
 
-Here is a picture of original connections
+The image below shows the actual connections
 
 <img src="assets/Picture2.png" width="500" />
 
 These are the videos that demonstrate the working of the developed prototype under various conditions
 
-<video src="assets/Video1.MP4" width="500px"></video>
+[![Watch the video]](https://raw.githubusercontent.com/C-V-Malavika/AUTOMATED_LIGHT_INTENSITY_CONTROL_SYSTEM/main/assets/Video1.MP4)
 
 <video src="assets/Video2.MP4" width="500px"></video>
 
