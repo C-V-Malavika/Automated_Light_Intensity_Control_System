@@ -24,19 +24,16 @@ An Automated Light Intensity Control System is essential for several practical r
 
 The image below shows a clear picture of the connections involved
 
-<img src="assets/Picture1.png" width="500" />
+![alt text](assets/Picture1.png)
 
 The image below shows the actual connections
 
-<img src="assets/Picture2.png" width="500" />
+![alt text](assets/Picture2.png)
 
 These are the videos that demonstrate the working of the developed prototype under various conditions
 
-<video width="500" height="500" controls>
-  <source src="assets/Video1.MP4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video controls src="assets/Video1.mp4" title="Title"></video>
 
-<video src="assets/Video2.MP4" width="500px"></video>
+<video controls src="assets/Video2.mp4" title="Title"></video>
 
-<video src="assets/Video3.MP4" width="500px"></video>
+<video controls src="assets/Video3.mp4" title="Title"></video>
