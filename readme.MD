@@ -29,11 +29,3 @@ The image below shows a clear picture of the connections involved
 The image below shows the actual connections
 
 ![alt text](assets/Picture2.png)
-
-These are the videos that demonstrate the working of the developed prototype under various conditions
-
-<video controls src="assets/Video1.mp4" title="Title"></video>
-
-<video controls src="assets/Video2.mp4" title="Title"></video>
-
-<video controls src="assets/Video3.mp4" title="Title"></video>
