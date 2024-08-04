@@ -29,3 +29,10 @@ The image below shows a clear picture of the connections involved
 The image below shows the actual connections
 
 ![alt text](assets/Picture2.png)
+
+## TECH TEAM
+
+1. MADHUKRISHAA N K
+2. MALAVIKA C V
+
+Sophomores at Sri Sivasubramaniya Nadar College of Engineering
