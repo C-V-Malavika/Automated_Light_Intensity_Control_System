@@ -13,7 +13,7 @@ void setup () {
 void loop () { 
     ldrValue = analogRead(ldrPin); 
     brightness = map (ldrValue, 50, 300, 255, 0); 
-    brightness = constrain (brightness, 0, 5000); 
+    brightness = constrain (brightness, 0, 255); 
     analogWrite(ledPin, brightness); 
     delay (10); 
 }
